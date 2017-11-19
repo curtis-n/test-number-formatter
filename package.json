@@ -1,0 +1,29 @@
+{
+    "name": "test-number-formatter",
+    "version": "0.1.0",
+    "description": "test number formatter",
+    "main": "index.js",
+    "engines": {
+        "node": ">=6.11.2"
+    },
+    "scripts": {
+        "test": "mocha --reporter spec"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/curtis-n/test-number-formatter.git"
+    },
+    "keywords": [
+        "test"
+    ],
+    "author": "Curtis Nielsen <curtis@pugapuma.com> (http://www.pugapuma.com)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/curtis-n/test-number-formatter/issues"
+    },
+    "homepage": "https://github.com/curtis-n/test-number-formatter#readme",
+    "devDependencies": {
+        "chai": "4.1.2",
+        "mocha": "4.0.1"
+    }
+}
