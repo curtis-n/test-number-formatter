@@ -1,5 +1,5 @@
 'use strict'
 
-module.exports = function(number, locale) {
+module.exports = function(number, locale) { 
     return number.toLocaleString(locale);
 }
