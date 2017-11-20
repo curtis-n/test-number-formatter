@@ -1,6 +1,6 @@
 {
     "name": "test-number-formatter",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "test number formatter",
     "main": "index.js",
     "engines": {
