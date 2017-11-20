@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/curtis-n/test-number-formatter.svg?branch=master)](https://travis-ci.org/curtis-n/test-number-formatter)
+
+[![Coverage Status](https://coveralls.io/repos/github/curtis-n/test-number-formatter/badge.svg?branch=master)](https://coveralls.io/github/curtis-n/test-number-formatter?branch=master)
+
 # test-number-formatter
 Test from tutorial https://codeburst.io/how-to-create-and-publish-your-first-node-js-module-444e7585b738
 
@@ -18,6 +22,8 @@ A small library that adds commas to numbers
   
   
   Output should be `35,666`
+  
+  
 
 
 ## Tests
